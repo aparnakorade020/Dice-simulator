@@ -1,2 +1,2 @@
-# Dice-simulator
+# python
 Python  first project
